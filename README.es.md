@@ -10,8 +10,8 @@ rastrear
 
 **Resumen ejecutivo**
 
-Uptrace es una plataforma de observabilidad basada en OpenTelemetry que le ayuda a monitorear, comprender y optimizar
-Sistemas distribuidos complejos. Piense en DataDog o NewRelic, pero a una fracción del costo y con un presupuesto fijo.
+Uptrace is an OpenTelemetry-based observability platform that helps you monitor, understand, and optimize
+complex distributed systems. Think of DataDog or NewRelic, but at a fraction of the cost and with a fixed budget.
 
 ## 100 - Introducción
 
