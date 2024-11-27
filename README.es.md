@@ -1,8 +1,8 @@
-nombre-repositorio
+rastrear
 
-# Nombre del repositorio
+# seguimiento
 
-> línea de bala
+> Observabilidad de código abierto con seguimientos, métricas y registros
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
@@ -10,11 +10,12 @@ nombre-repositorio
 
 **Resumen ejecutivo**
 
-Texto
+Uptrace es una plataforma de observabilidad basada en OpenTelemetry que le ayuda a monitorear, comprender y optimizar
+Sistemas distribuidos complejos. Piense en DataDog o NewRelic, pero a una fracción del costo y con un presupuesto fijo.
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
