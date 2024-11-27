@@ -1,8 +1,8 @@
-repository-name
+上行跟踪
 
-# 存储库名称
+# 上行追踪
 
-> 斯拉格莱恩
+> 具有跟踪、指标和日志的开源可观察性
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -10,7 +10,8 @@ repository-name
 
 **执行摘要**
 
-文本
+Uptrace 是一个基于 OpenTelemetry 的可观测性平台，可帮助您监控、理解和优化
+复杂的分布式系统。想想 DataDog 或 NewRelic，但成本只是它的一小部分，而且预算固定。
 
 ## 100 - 简介
 
