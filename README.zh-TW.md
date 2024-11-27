@@ -2,11 +2,11 @@
 
 # 儲存庫名稱
 
-> Slugline
+> 斯拉格萊恩
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文件](./DOCUMENTATION.md)
 
 **執行摘要**
 
@@ -20,7 +20,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 建立我們的應用程式
 
 看[README.md](./300/README.md)
 
