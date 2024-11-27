@@ -1,8 +1,8 @@
-repositorynaam
+opsporen
 
-# Naam van opslagplaats
+# Opsporen
 
-> Slaklijn
+> Open source-waarneembaarheid met sporen, statistieken en logboeken
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
@@ -10,7 +10,8 @@ repositorynaam
 
 **Samenvatting**
 
-Tekst
+Uptrace is een op OpenTelemetry gebaseerd observatieplatform waarmee u kunt monitoren, begrijpen en optimaliseren
+complexe gedistribueerde systemen. Denk aan DataDog of NewRelic, maar dan tegen een fractie van de kosten en met een vast budget.
 
 ## 100 - Inleiding
 
