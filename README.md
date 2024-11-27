@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+uptrace
+# Uptrace
 
-> Slugline
+> Open Source Observability with Traces, Metrics, and Logs
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
@@ -9,7 +9,8 @@ repository-name
 
 **Executive Summary**
 
-Text
+Uptrace is an OpenTelemetry-based observability platform that helps you monitor, understand, and optimize
+complex distributed systems. Think of DataDog or NewRelic, but at a fraction of the cost and with a fixed budget.
 
 ## 100 - Introduction
 
