@@ -1,8 +1,8 @@
-nom du référentiel
+trace
 
-# Nom du référentiel
+# Trace
 
-> Slugline
+> Observabilité Open Source avec traces, métriques et journaux
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
@@ -10,7 +10,8 @@ nom du référentiel
 
 **Résumé exécutif**
 
-Texte
+Uptrace est une plateforme d'observabilité basée sur OpenTelemetry qui vous aide à surveiller, comprendre et optimiser
+systèmes distribués complexes. Pensez à DataDog ou NewRelic, mais à une fraction du coût et avec un budget fixe.
 
 ## 100 - Introduction
 
